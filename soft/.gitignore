@@ -1,0 +1,12 @@
+.generated_files
+build
+dist
+nbproject/Makefile-*
+nbproject/Package-default.bash
+nbproject/private/
+*.cof
+*.hex
+*.map
+*.mcp
+*.mcs
+*.mcw
